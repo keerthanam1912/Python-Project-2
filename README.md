@@ -20,3 +20,11 @@ STEPS:
 4)Here,email con accept the symbols of "_","@","." and also lowercase alphabets and digits,if not invalid
 
 5)Checking all conditions of email and printing Valid or Invalid  email
+
+
+OUTPUT:
+
+
+![email checker](https://user-images.githubusercontent.com/106869388/174424556-f97c72b0-9ed8-4a49-bc90-e1603efa91d9.png)
+
+
